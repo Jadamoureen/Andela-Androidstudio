@@ -1,4 +1,4 @@
-package com.example.jada.alc4phase1;
+package com.example.aaron.alc4phase1;
 
 import android.content.Intent;
 import android.os.Bundle;
